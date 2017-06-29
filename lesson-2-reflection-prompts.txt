@@ -24,6 +24,9 @@ branches can be useful when we want to test some new thing or want to make chang
 
 How do the diagrams help you visualize the branch structure?
 
+
+diagram help us to see which commit will show in which branch and where to make the next commit. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
