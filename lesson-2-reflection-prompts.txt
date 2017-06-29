@@ -11,6 +11,9 @@ staging area is kind of the middle layer between working area and repository.it 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+ any logical change to the file can be commited after adding it to the staging area using git add. 
+
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
