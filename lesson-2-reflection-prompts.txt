@@ -36,3 +36,5 @@ by merging we can combine the commits in two branches together. branches merged 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+always merging manually will be time consuming and waste of time many times we will need to check our code again and again.
+but when conflicts arise it is better to see manually which piece of code is better in terms of memory,or time effieciency,etc.  
