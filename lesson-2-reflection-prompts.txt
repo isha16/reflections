@@ -9,13 +9,13 @@ staging area is kind of the middle layer between working area and repository.it 
 
 
 
-How can you use the staging area to make sure you have one commit per logical
+How can you use the staging area to make sure you have one commit per logical 
 change?
  any logical change to the file can be commited after adding it to the staging area using git add. 
 
 
 
-What are some situations when branches would be helpful in keeping your history
+What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
 branches can be useful when we want to test some new thing or want to make changes to a file simultaneously keeping the old file too.branches are helpful coz we can make commits in a branch without affecting the other branch. 
 
@@ -28,7 +28,11 @@ How do the diagrams help you visualize the branch structure?
 diagram help us to see which commit will show in which branch and where to make the next commit. 
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+ the diagram the way we do?
+by merging we can combine the commits in two branches together. branches merged may contain some feature that we wanted to try out first and if worked correctly include it in the main program.by representing it in a diagram we can see which commit belonged to which branch and thn compare it to its parent when we want to. 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
