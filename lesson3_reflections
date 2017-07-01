@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 You might make changes you're not ready to push to your remote repository yet,
 or you might be working on something someone else is working on at the same
 time.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+you make a branch in a local repository
+you can clone something from github to your local computer
+also you can clone a repository at a different place in the same local computer
+forks let you clone a repository on github to your own repository on github.
