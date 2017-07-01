@@ -22,3 +22,7 @@ when you have other collaborators for a project, you might wanna have their addi
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 making phone calls,video call or meeting in person but this may be problematic if collaborators are living far from you.
 even if any of the above is successful it may be difficult to merge changes done by others to your own code for a very large project. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when you need to test an idea first or want feedback from collaborators
