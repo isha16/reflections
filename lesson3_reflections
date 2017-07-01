@@ -17,3 +17,8 @@ forks let you clone a repository on github to your own repository on github.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 when you have other collaborators for a project, you might wanna have their additions to the code in your local repository.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+making phone calls,video call or meeting in person but this may be problematic if collaborators are living far from you.
+even if any of the above is successful it may be difficult to merge changes done by others to your own code for a very large project. 
