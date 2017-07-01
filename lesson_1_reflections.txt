@@ -46,5 +46,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    to save different versions of my code so that i'mfree to try out new 
+    to save different versions of my code so that i'm free to try out new 
    ideas without the fear that i will lose my progress.
